@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @McannOzserce
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in back-end development
+- 🌱 I’m currently learning AI modals
 - 📫 How to reach me mert_ozserce@outlook.com
 
 
