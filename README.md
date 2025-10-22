@@ -36,4 +36,4 @@ I believe the best way to learn is by building. With that philosophy, I am docum
 I'm always open to discussing technology, collaborating, or just chatting about project ideas.
 
 * **Email:** [mert_ozserce@outlook.com](mailto:mert_ozserce@outlook.com)
-* **LinkedIn:** `(https://www.linkedin.com/in/mert-can-ozserce)`
+* **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/mert-can-ozserce-5bbb7b29b/)
