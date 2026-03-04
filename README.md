@@ -25,9 +25,9 @@ I believe the best way to learn is by building. With that philosophy, I am docum
 
 *(Note: Please update this list with your own technologies)*
 
-* **Back-End:** `[e.g., Python (Django/FastAPI), Node.js, C# (.NET)]`
+* **Back-End:** `Node.js, C#, php, python`
 * **AI/ML (Learning):** `Python`, `Pandas`, `NumPy`
-* **Databases:** `[e.g., PostgreSQL, MySQL, MongoDB]`
+* **Databases:** `mysql`
 
 ---
 
