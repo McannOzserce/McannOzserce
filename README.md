@@ -23,7 +23,6 @@ I believe the best way to learn is by building. With that philosophy, I am docum
 
 ## 💻 Tech Stack & Interests
 
-*(Note: Please update this list with your own technologies)*
 
 * **Back-End:** `Node.js, C#, php, python`
 * **AI/ML (Learning):** `Python`, `Pandas`, `NumPy`
